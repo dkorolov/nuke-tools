@@ -1,10 +1,8 @@
 nukeTools
 =========
 
-This repository contain public information about several Nuke tools created by
-Dmytro Korolov <https://www.linkedin.com/in/dmytrokorolov/> . Code and details
-available via request
-
+This repository contain tools for Nuke compositing software created by
+Dmytro Korolov <https://www.linkedin.com/in/dmytrokorolov/> 
  
 
 Retime Helper
